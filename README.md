@@ -3,7 +3,7 @@
 ![TonBlockchainLogo](/ton_logo_light_background.svg#gh-light-mode-only)
 
 You can always send thanks to TonСoin, to my wallet: 
-`UQCr_GPOjU2SZZ2ujrGdTt5x_wCr5E5bIowqpsKIbuJXdlH8`
+`appto-wallet.ton`
 
 <!--
 **mahlenko/mahlenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
